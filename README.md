@@ -1,0 +1,2 @@
+# MyFirstRubyOnRails
+Rubyトレーニング用アプリケーション
